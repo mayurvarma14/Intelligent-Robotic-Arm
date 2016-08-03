@@ -13,7 +13,6 @@ This is an Intelligent Robotic Arm with 5 degree of freedom for control.It has a
 
 **Mode**
 
-----------
 It has 2 modes to operate
 1. Simple Mode
 2. Autonomous Mode
@@ -22,7 +21,6 @@ It has 2 modes to operate
 **Simple Mode**
 ---------------
 
-----------
 
 For making the program for microcontroller i have used Avr Studio and for USB interface application i have used Visual C#.
 
@@ -37,8 +35,6 @@ User can save the script and load the script created by them.
 **Autonomous Mode**
 -------------------
 
-----------
-
 It has autonomous mode and it can detect objects with the help of Image Processing.
 
 For Image Processing I have used AFORGE.NET library.
@@ -49,9 +45,16 @@ It can detect different color objects and sort the object based on colors withou
 
 ![enter image description here](https://mayurvarma14.files.wordpress.com/2014/07/gui2.jpg?w=650&h=244)
 
+
+**Usage**
+-----
+
+ - Directory "Robot"  contains Visual C# code for the GUI program
+ - Directory "Robotic Arm" contains AVR Studio's C  code for the   
+   Microcontroller Atmega 640
+
 **Authors**
 -----------
-----------
  - **Mayur Varma** (mayurvarma14@gmail.com)
 <br/>
 <br/>

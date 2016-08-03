@@ -1,0 +1,20 @@
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\obj\x86\Debug\Robotic Arm.exe
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\obj\x86\Debug\Robotic Arm.pdb
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\bin\Debug\Robotic Arm.exe
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\bin\Debug\Robotic Arm.pdb
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\bin\Debug\AForge.Video.DirectShow.dll
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\bin\Debug\AForge.Video.dll
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\bin\Debug\AForge.Video.xml
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\bin\Debug\AForge.Video.DirectShow.xml
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\obj\x86\Debug\Robotic Arm.csprojResolveAssemblyReference.cache
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\obj\x86\Debug\Robotic_Arm.main.resources
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\obj\x86\Debug\Robotic_Arm.Properties.Resources.resources
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\obj\x86\Debug\Robotic Arm.csproj.GenerateResource.Cache
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\bin\Debug\AForge.Imaging.dll
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\bin\Debug\AForge.dll
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\bin\Debug\AForge.Math.dll
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\bin\Debug\AForge.Imaging.xml
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\bin\Debug\AForge.xml
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\bin\Debug\AForge.Math.xml
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\obj\x86\Debug\Robotic_Arm.aiobject.resources
+D:\Documents\My code\Robot\Robotic Arm\Robotic Arm\obj\x86\Debug\Robotic_Arm.Programming.resources

@@ -1,0 +1,11 @@
+NRS-785
+
+Dimension: 40.7mm x 20.5mm x39.5mm
+Torque: 6.4kg/cm
+Motor weight: 41gms
+Operating speed: 0.17sec/60 degree
+Operating voltage: 4.8V to 6V
+Temperature range: 0-55C
+0.6 ms for 0 degree Rotation
+2.2 ms for 180 degree Rotation
+
