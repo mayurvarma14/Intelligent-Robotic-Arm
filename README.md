@@ -1,4 +1,4 @@
-# Intelligent-Robotic-Arm
+# **Intelligent-Robotic-Arm**
 Intelligent Robotic Arm is a 5 dof  autonomous arm with webcam attached to it for vision. Check it here https://mayurvarma14.wordpress.com/2014/08/01/mayur-intelligent-robotic-arm/
 
 
@@ -14,12 +14,13 @@ This is an Intelligent Robotic Arm with 5 degree of freedom for control.It has a
 **Mode**
 
 ----------
-It has 2 modes to operate 
+It has 2 modes to operate
 1. Simple Mode
 2. Autonomous Mode
 
 
 **Simple Mode**
+---------------
 
 ----------
 
@@ -34,6 +35,7 @@ User can save the script and load the script created by them.
 ![enter image description here](https://mayurvarma14.files.wordpress.com/2014/07/gui1.jpg)
 
 **Autonomous Mode**
+-------------------
 
 ----------
 
@@ -47,5 +49,15 @@ It can detect different color objects and sort the object based on colors withou
 
 ![enter image description here](https://mayurvarma14.files.wordpress.com/2014/07/gui2.jpg?w=650&h=244)
 
+**Authors**
+-----------
+----------
+ - **Mayur Varma** (mayurvarma14@gmail.com)
+<br/>
+<br/>
 
-Licensed under [MIT License](LICENSE) 
+
+----------
+
+
+  **Licensed under [MIT License](LICENSE)**
